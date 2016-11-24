@@ -253,8 +253,7 @@ nav {
 }
 
 .post {
-  blockquote {
-    margin: 1.8em .8em;
+  blockquote {    margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: #0099ff;
@@ -265,7 +264,6 @@ nav {
   .comments {
     margin-top: 10px;
   }
-
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
@@ -320,5 +318,5 @@ container {    width: 400px;
 	margin-left: auto;    
 	height: 400px;    
 	background: teal;
-	opacity: 0.25;
+	opacity: 25;
 }
