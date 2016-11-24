@@ -299,6 +299,12 @@ table{
 	border-collapse: collapse;
 }
 
-table, th, td{
+table, td{
 	border: 10px solid black
+	border-radius: 10px
+}
+
+table, th{
+	border: 10px solid black
+	border-radius: 10px
 }
