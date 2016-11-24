@@ -300,13 +300,19 @@ table{
 }
 
 table, td{
-	border: 3px solid black;
+	border: 3px solid blue;
 	border-radius: 3px;
 	box-shadow: 10px 10px 5px #888888;
 }
 
 table, th{
-	border: 3px solid black;
+	border: 3px solid blue;
 	border-radius: 3px;
 	box-shadow: 10px 10px 5px #888888;
+}
+
+p { 
+	border: 5px solid #0099ff; 
+	padding: 25px; 
+	border-radius: 20px; 
 }
