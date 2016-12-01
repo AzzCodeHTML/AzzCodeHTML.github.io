@@ -36,7 +36,7 @@ border-bottom: 1px solid white;
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: #0099ff;
-  font-weight: bold;
+  font-weight: 900;
 
   line-height: 1.7;
   margin: 1em 0 15px;
@@ -106,7 +106,7 @@ em, i {
 }
 
 strong, b {
-  font-weight: bold;
+  font-weight: 900;
 }
 
 img {
@@ -198,7 +198,7 @@ img {
   color: #0099ff;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 900;
   font-size: 28px;
   letter-spacing: 1px;
 }
